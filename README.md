@@ -57,7 +57,7 @@ chain.isValid() // true
 
 ## Stack
 
-- Kotlin 2.3.21 (JVM target 25)
+- Kotlin 2.4.20 (JVM target 25)
 - Java 25 toolchain
 - JUnit Jupiter 6.1
 - Gradle 9.6
